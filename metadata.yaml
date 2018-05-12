@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39528'
     url: http://www.gutenberg.org/2009/agents/39528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38557#-Granny-s-Chapters---on-scriptural-subjects---13-The-New-Testament-with-a-Sketch-of-the-Subse_
 gutenberg_issued: '2012-01-12'
 gutenberg_type: Text
 identifiers:
